@@ -55,7 +55,6 @@ __starts with / (slash) or ! (exclamation mark)__
 
 \u2022 **/play**  reply with an audio to play/queue it, or show playlist
 \u2022 **/current**  show current playing time of current track
-\u2022 **/repo**  show git repository of the userbot
 \u2022 `!help`  show help for commands
 
 
@@ -78,7 +77,6 @@ __starts with ! (exclamation mark)__
 
 USERBOT_REPO = f"""{emoji.ROBOT} **Telegram Voice Chat UserBot**
 
-- Repository: [GitHub](https://github.com/LushaiMusic/VC-UserBot)
 - License: AGPL-3.0-or-later"""
 
 # - Pyrogram filters
