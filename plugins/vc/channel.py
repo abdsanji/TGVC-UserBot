@@ -40,7 +40,6 @@ USERBOT_HELP = f"""{emoji.LABEL}  **Commands**:
 
 \u2022 **/play**  reply with an audio to play/queue it, or show playlist
 \u2022 **/current**  show current playing time of current track
-\u2022 **/repo**  show git repository of the userbot
 \u2022 `!help`  show help for commands
 
 \u2022 `!skip` `[n] ...`  skip current or n where n >= 2
@@ -58,7 +57,6 @@ USERBOT_HELP = f"""{emoji.LABEL}  **Commands**:
 
 USERBOT_REPO = f"""{emoji.ROBOT} **Telegram Voice Chat UserBot**
 
-- Repository: [GitHub](https://github.com/lushaimusic/tg-vc-userbot)
 - License: AGPL-3.0-or-later"""
 
 # - Pyrogram filters
